@@ -1,0 +1,13 @@
+body{
+    background-image:url("../img/ramille-soares-unsplash.jpg") ;
+    background-size: cover;
+    background-color: #0d0d0d;
+    opacity: 0.9;
+}
+.background{
+
+}
+.push-left{
+    margin-left: 6%;
+    margin-top: 15%;
+}
