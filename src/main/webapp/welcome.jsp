@@ -8,6 +8,7 @@
     <meta charset="utf-8">
     <title>Create an account</title>
     <link href="${contextPath}/resources/css/bootstrap.min.css" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 </head>
 <body>
 <div class="container">
